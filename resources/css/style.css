@@ -1,0 +1,22 @@
+/* Main style */
+
+html{
+    font-family:"Verdana";
+    font-size: 21px;
+    color: white;
+    background: black;
+}
+
+h2{
+    font-weight: normal;
+    font-size: 2.38rem;
+    text-align: center;
+}
+
+header a{
+    display: flex;
+    color: aquamarine;
+    font-size: 0.7619rem;
+    margin: 0 auto;
+    justify-content: center;
+}
