@@ -20,3 +20,9 @@ header a{
     margin: 0 auto;
     justify-content: center;
 }
+
+.promovideo{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
