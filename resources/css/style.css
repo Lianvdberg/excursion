@@ -26,3 +26,23 @@ header a{
     justify-content: center;
     margin: 0 auto;
 }
+
+.personal{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.personal h2{
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+.personal p{
+    color: gray;
+    text-align: center;
+}
+
+.personal img{
+    margin: 0 auto;
+}
