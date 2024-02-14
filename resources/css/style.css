@@ -33,7 +33,7 @@ header a{
     flex-direction: column;
 }
 
-.personal h2{
+h2{
     font-weight: 300;
     font-size: 2rem;
 }
@@ -45,4 +45,26 @@ header a{
 
 .personal img{
     margin: 0 auto;
+}
+
+.soon{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.soon img{
+    margin: 1.5rem auto 0 auto;
+}
+
+.soon a{
+    color: aquamarine;
+    font-size: 0.7619rem;
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+    color: grey;
+    margin-top: 1.5rem;
 }
